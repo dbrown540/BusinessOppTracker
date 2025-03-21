@@ -1,0 +1,23 @@
+{
+  "Departments": [
+    {
+      "HEALTH AND HUMAN SERVICES": {
+        "id": 25212,
+        "agencies": [
+          {
+            "ADMINISTRATION FOR CHILDREN AND FAMILIES": {
+              "id": 25213,
+              "offices": [
+                {
+                  "ADMINISTRATION ON CHILDREN, YOUTH AND FAMILIES": {
+                    "id": 148426
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

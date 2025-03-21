@@ -1,0 +1,937 @@
+{
+  "Departments": [
+    {
+      "HEALTH AND HUMAN SERVICES": {
+        "id": 25212,
+        "agencies": [
+          {
+            "ADMINISTRATION FOR CHILDREN AND FAMILIES": {
+              "id": 25213,
+              "offices": [
+                {
+                  "ADMINISTRATION ON CHILDREN, YOUTH AND FAMILIES": {
+                    "id": 148426
+                  }
+                },
+                {
+                  "DEPUTY ASSISTANT SECRETARY FOR EXTERNAL AFFAIRS": {
+                    "id": 166433
+                  }
+                },
+                {
+                  "DEPUTY ASSISTANT SECRETARY FOR NATIVE AMERICAN AFFAIRS": {
+                    "id": 166430
+                  }
+                },
+                {
+                  "DEPUTY ASSISTANT SECRETARY FOR PLANNING RESEARCH AND EVALUATION": {
+                    "id": 166434
+                  }
+                },
+                {
+                  "DEPUTY ASSISTANT SECRETARY FOR POLICY": {
+                    "id": 166432
+                  }
+                },
+                {
+                  "OFFICE OF CHILD SUPPORT ENFORCEMENT": {
+                    "id": 26234
+                  }
+                },
+                {
+                  "OFFICE OF COMMUNICATIONS": {
+                    "id": 148428
+                  }
+                },
+                {
+                  "OFFICE OF COMMUNITY SERVICES": {
+                    "id": 26238
+                  }
+                },
+                {
+                  "OFFICE OF EARLY CHILDHOOD DEVELOPMENT": {
+                    "id": 148427
+                  }
+                },
+                {
+                  "OFFICE OF FAMILY ASSISTANCE": {
+                    "id": 26233
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "ADMINISTRATION FOR COMMUNITY LIVING": {
+              "id": 148416,
+              "offices": [
+                {
+                  "ADMINISTRATION ON AGING": {
+                    "id": 25214
+                  }
+                },
+                {
+                  "ADMINISTRATION ON DISABILITIES": {
+                    "id": 148417
+                  }
+                },
+                {
+                  "CENTER FOR INTEGRATED PROGRAMS": {
+                    "id": 148419
+                  }
+                },
+                {
+                  "CENTER FOR MANAGEMENT AND BUDGET": {
+                    "id": 148420
+                  }
+                },
+                {
+                  "CENTER FOR POLICY AND EVALUATION": {
+                    "id": 148421
+                  }
+                },
+                {
+                  "NATIONAL INSTITUTE ON DISABILITY, INDEPENDENT LIVING, AND REHABILITATION RESEARCH": {
+                    "id": 148418
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "AGENCY FOR HEALTHCARE RESEARCH AND QUALITY": {
+              "id": 25215,
+              "offices": [
+                {
+                  "CENTER FOR DELIVERY, ORGANIZATION AND MARKETS": {
+                    "id": 26222
+                  }
+                },
+                {
+                  "CENTER FOR EVIDENCE AND PRACTICE IMPROVEMENT": {
+                    "id": 148422
+                  }
+                },
+                {
+                  "CENTER FOR FINANCING, ACCESS AND COST TRENDS": {
+                    "id": 26223
+                  }
+                },
+                {
+                  "CENTER FOR QUALITY IMPROVEMENT AND PATIENT SAFETY": {
+                    "id": 26226
+                  }
+                },
+                {
+                  "OFFICE OF COMMUNICATIONS": {
+                    "id": 26228
+                  }
+                },
+                {
+                  "OFFICE OF EXTRAMURAL RESEARCH, EDUCATION AND PRIORITY POPULATIONS": {
+                    "id": 26229
+                  }
+                },
+                {
+                  "OFFICE OF MANAGEMENT SERVICES": {
+                    "id": 26230
+                  }
+                },
+                {
+                  "OFFICE OF THE DIRECTOR": {
+                    "id": 26227
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "CENTERS FOR DISEASE CONTROL AND PREVENTION": {
+              "id": 25217,
+              "offices": [
+                {
+                  "AGENCY FOR TOXIC SUBSTANCES AND DISEASE REGISTRY": {
+                    "id": 26259
+                  }
+                },
+                {
+                  "CDC WASHINGTON OFFICE": {
+                    "id": 180208
+                  }
+                },
+                {
+                  "CENTER FOR SURVEILLANCE, EPIDEMIOLOGY, AND LABORATORY SERVICES (CSELS)": {
+                    "id": 148442
+                  }
+                },
+                {
+                  "GLOBAL HEALTH CENTER": {
+                    "id": 148435
+                  }
+                },
+                {
+                  "NATIONAL CENTER FOR CHRONIC DISEASE PREVENTION AND HEALTH PROMOTION": {
+                    "id": 26280
+                  }
+                },
+                {
+                  "NATIONAL CENTER FOR EMERGING AND ZOONOTIC INFECTIOUS DISEASES (NCEZID)": {
+                    "id": 26284
+                  }
+                },
+                {
+                  "NATIONAL CENTER FOR ENVIRONMENTAL HEALTH (NCEH)": {
+                    "id": 26271
+                  }
+                },
+                {
+                  "NATIONAL CENTER FOR HEALTH STATISTICS": {
+                    "id": 26282
+                  }
+                },
+                {
+                  "NATIONAL CENTER FOR HIV/AIDS, VIRAL HEPATITIS, STD, AND TB PREVENTION": {
+                    "id": 26273
+                  }
+                },
+                {
+                  "NATIONAL CENTER FOR IMMUNIZATION AND RESPIRATORY DISEASES (NCIRD)": {
+                    "id": 26277
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "CENTERS FOR MEDICARE AND MEDICAID SERVICES": {
+              "id": 26220,
+              "offices": [
+                {
+                  "CENTER FOR CLINICAL STANDARDS AND QUALITY": {
+                    "id": 26301
+                  }
+                },
+                {
+                  "CENTER FOR CONSUMER INFORMATION AND INSURANCE OVERSIGHT": {
+                    "id": 148547
+                  }
+                },
+                {
+                  "CENTER FOR MEDICAID AND CHIP SERVICES": {
+                    "id": 26298
+                  }
+                },
+                {
+                  "CENTER FOR MEDICARE": {
+                    "id": 26296
+                  }
+                },
+                {
+                  "CENTER FOR MEDICARE AND MEDICAID INNOVATION": {
+                    "id": 26297
+                  }
+                },
+                {
+                  "CENTER FOR PROGRAM INTEGRITY": {
+                    "id": 148538
+                  }
+                },
+                {
+                  "FEDERAL COORDINATED HEALTH CARE OFFICE": {
+                    "id": 148535
+                  }
+                },
+                {
+                  "OFFICE OF ACQUISITION AND GRANTS MANAGEMENT": {
+                    "id": 26303
+                  }
+                },
+                {
+                  "OFFICE OF COMMUNICATIONS": {
+                    "id": 148526
+                  }
+                },
+                {
+                  "OFFICE OF ENTERPRISE DATA AND ANALYTICS": {
+                    "id": 148513
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "FOOD AND DRUG ADMINISTRATION": {
+              "id": 25218,
+              "offices": [
+                {
+                  "CENTER FOR BIOLOGICS EVALUATION AND RESEARCH": {
+                    "id": 26304
+                  }
+                },
+                {
+                  "CENTER FOR DEVICES AND RADIOLOGICAL HEALTH": {
+                    "id": 26305
+                  }
+                },
+                {
+                  "CENTER FOR DRUG EVALUATION AND RESEARCH": {
+                    "id": 26306
+                  }
+                },
+                {
+                  "CENTER FOR FOOD SAFETY AND APPLIED NUTRITION": {
+                    "id": 26307
+                  }
+                },
+                {
+                  "CENTER FOR TOBACCO PRODUCTS": {
+                    "id": 126463
+                  }
+                },
+                {
+                  "CENTER FOR VETERINARY MEDICINE": {
+                    "id": 26308
+                  }
+                },
+                {
+                  "NATIONAL CENTER FOR TOXICOLOGICAL RESEARCH": {
+                    "id": 26309
+                  }
+                },
+                {
+                  "OFFICE OF CLINICAL POLICY AND PROGRAMS": {
+                    "id": 148561
+                  }
+                },
+                {
+                  "OFFICE OF EXTERNAL AFFAIRS": {
+                    "id": 148562
+                  }
+                },
+                {
+                  "OFFICE OF FOOD POLICY AND RESPONSE": {
+                    "id": 148563
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "HEALTH RESOURCES AND SERVICES ADMINISTRATION": {
+              "id": 25221,
+              "offices": [
+                {
+                  "ADMINISTRATOR": {
+                    "id": 125511
+                  }
+                },
+                {
+                  "BUREAU OF HEALTH WORKFORCE": {
+                    "id": 148568
+                  }
+                },
+                {
+                  "BUREAU OF PRIMARY HEALTH CARE": {
+                    "id": 125552
+                  }
+                },
+                {
+                  "COMMUNICATIONS": {
+                    "id": 125513
+                  }
+                },
+                {
+                  "FEDERAL ASSISTANCE MANAGEMENT": {
+                    "id": 125520
+                  }
+                },
+                {
+                  "FEDERAL OFFICE OF RURAL HEALTH POLICY": {
+                    "id": 125538
+                  }
+                },
+                {
+                  "HEALTHCARE SYSTEMS BUREAU": {
+                    "id": 125560
+                  }
+                },
+                {
+                  "HIV/AIDS BUREAU": {
+                    "id": 125568
+                  }
+                },
+                {
+                  "LEGISLATION": {
+                    "id": 125516
+                  }
+                },
+                {
+                  "MATERNAL AND CHILD HEALTH BUREAU": {
+                    "id": 125574
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "INDIAN HEALTH SERVICE": {
+              "id": 25222,
+              "offices": [
+                {
+                  "ALASKA AREA OFFICE": {
+                    "id": 26337
+                  }
+                },
+                {
+                  "ALBUQUERQUE AREA OFFICE": {
+                    "id": 26338
+                  }
+                },
+                {
+                  "BEMIDJI AREA OFFICE": {
+                    "id": 26339
+                  }
+                },
+                {
+                  "BILLINGS AREA OFFICE": {
+                    "id": 26340
+                  }
+                },
+                {
+                  "CALIFORNIA AREA OFFICE": {
+                    "id": 26341
+                  }
+                },
+                {
+                  "CLINICAL AND PREVENTIVE SERVICES": {
+                    "id": 26332
+                  }
+                },
+                {
+                  "DIRECTOR": {
+                    "id": 26328
+                  }
+                },
+                {
+                  "ENVIRONMENTAL HEALTH AND ENGINEERING": {
+                    "id": 26333
+                  }
+                },
+                {
+                  "FINANCE AND ACCOUNTING": {
+                    "id": 26329
+                  }
+                },
+                {
+                  "GREAT PLAINS AREA OFFICE": {
+                    "id": 26336
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "NATIONAL INSTITUTES OF HEALTH": {
+              "id": 25223,
+              "offices": [
+                {
+                  "ADVANCED RESEARCH PROJECT AGENCY FOR HEALTH": {
+                    "id": 179168
+                  }
+                },
+                {
+                  "CENTER FOR INFORMATION TECHNOLOGY": {
+                    "id": 25224
+                  }
+                },
+                {
+                  "CENTER FOR SCIENTIFIC REVIEW": {
+                    "id": 25225
+                  }
+                },
+                {
+                  "CLINICAL CENTER": {
+                    "id": 25250
+                  }
+                },
+                {
+                  "JOHN E FOGARTY INTERNATIONAL CENTER FOR ADVANCED STUDY IN THE HEALTH SCIENCES": {
+                    "id": 25226
+                  }
+                },
+                {
+                  "NATIONAL CANCER INSTITUTE": {
+                    "id": 25227
+                  }
+                },
+                {
+                  "NATIONAL CENTER FOR ADVANCING TRANSLATIONAL SCIENCES": {
+                    "id": 146236
+                  }
+                },
+                {
+                  "NATIONAL CENTER FOR COMPLEMENTARY AND INTEGRATIVE HEALTH": {
+                    "id": 25228
+                  }
+                },
+                {
+                  "NATIONAL CENTER FOR RESEARCH RESOURCES": {
+                    "id": 25229
+                  }
+                },
+                {
+                  "NATIONAL EYE INSTITUTE": {
+                    "id": 25231
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OFFICE OF ACQUISITION MANAGEMENT AND POLICY": {
+              "id": 116439,
+              "offices": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "HOMELAND SECURITY": {
+        "id": 25265,
+        "agencies": [
+          {
+            "COUNTERING WEAPONS OF MASS DESTRUCTION OFFICE": {
+              "id": 30686,
+              "offices": [
+                {
+                  "OFFICE OF ASSESSMENT": {
+                    "id": 30719
+                  }
+                },
+                {
+                  "OFFICE OF HEALTH AFFAIRS": {
+                    "id": 126363
+                  }
+                },
+                {
+                  "OFFICE OF OPERATIONS SUPPORT": {
+                    "id": 30721
+                  }
+                },
+                {
+                  "OFFICE OF SYSTEMS ARCHITECT": {
+                    "id": 30717
+                  }
+                },
+                {
+                  "OFFICE OF SYSTEMS DEVELOPMENT AND ACQUISITION": {
+                    "id": 30718
+                  }
+                },
+                {
+                  "OFFICE OF SYSTEMS ENGINEERING": {
+                    "id": 30716
+                  }
+                },
+                {
+                  "OFFICE OF THE DIRECTOR": {
+                    "id": 30715
+                  }
+                },
+                {
+                  "TRANSFORMATION & APPLIED RESEARCH": {
+                    "id": 30720
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "CUSTOMS AND BORDER PROTECTION": {
+              "id": 30703,
+              "offices": [
+                {
+                  "FINANCE AND CHIEF FINANCIAL OFFICER": {
+                    "id": 116028
+                  }
+                },
+                {
+                  "INFORMATION AND INCIDENT COORDINATION CENTER": {
+                    "id": 148137
+                  }
+                },
+                {
+                  "LABORATORIES AND SCIENTIFIC SERVICES DIRECTORATE": {
+                    "id": 148138
+                  }
+                },
+                {
+                  "OFFICE OF ACQUISITION": {
+                    "id": 148139
+                  }
+                },
+                {
+                  "OFFICE OF ADMINISTRATION": {
+                    "id": 177821
+                  }
+                },
+                {
+                  "OFFICE OF AIR AND MARINE OPERATIONS": {
+                    "id": 116024
+                  }
+                },
+                {
+                  "OFFICE OF CHIEF COUNSEL": {
+                    "id": 116017
+                  }
+                },
+                {
+                  "OFFICE OF CONGRESSIONAL AFFAIRS": {
+                    "id": 116019
+                  }
+                },
+                {
+                  "OFFICE OF FACILITIES AND ASSET MANAGEMENT": {
+                    "id": 148134
+                  }
+                },
+                {
+                  "OFFICE OF FIELD OPERATIONS": {
+                    "id": 116021
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY": {
+              "id": 26467,
+              "offices": [
+                {
+                  "CYBERSECURITY DIVISION": {
+                    "id": 30676
+                  }
+                },
+                {
+                  "EMERGENCY COMMUNICATIONS DIVISION": {
+                    "id": 148397
+                  }
+                },
+                {
+                  "INFRASTRUCTURE DIVISION": {
+                    "id": 30680
+                  }
+                },
+                {
+                  "MANAGEMENT": {
+                    "id": 148396
+                  }
+                },
+                {
+                  "NATIONAL RISK MANAGEMENT CENTER": {
+                    "id": 126361
+                  }
+                },
+                {
+                  "STAKEHOLDER ENGAGEMENT DIVISION (SED)": {
+                    "id": 180510
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "FEDERAL EMERGENCY MANAGEMENT AGENCY": {
+              "id": 30687,
+              "offices": [
+                {
+                  "MISSION SUPPORT BUREAU": {
+                    "id": 148194
+                  }
+                },
+                {
+                  "OFFICE OF RESPONSE & RECOVERY": {
+                    "id": 116037
+                  }
+                },
+                {
+                  "OFFICE OF THE ADMINISTRATOR": {
+                    "id": 116033
+                  }
+                },
+                {
+                  "REGIONAL OPERATIONS": {
+                    "id": 116053
+                  }
+                },
+                {
+                  "RESILIENCE": {
+                    "id": 148196
+                  }
+                },
+                {
+                  "US FIRE ADMINISTRATION": {
+                    "id": 30678
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "FEDERAL LAW ENFORCEMENT TRAINING CENTER": {
+              "id": 25272,
+              "offices": [
+                {
+                  "CHARLESTON OPERATIONS": {
+                    "id": 177824
+                  }
+                },
+                {
+                  "CORE TRAINING OPERATIONS DIRECTORATE": {
+                    "id": 148190
+                  }
+                },
+                {
+                  "COUNTERTERRORISM DIVISION": {
+                    "id": 177827
+                  }
+                },
+                {
+                  "FACILITIES MANAGEMENT DIVISION": {
+                    "id": 177828
+                  }
+                },
+                {
+                  "HUMAN CAPITAL OPERATIONS DIVISION": {
+                    "id": 177829
+                  }
+                },
+                {
+                  "MISSION AND READINESS SUPPORT DIRECTORATE": {
+                    "id": 148191
+                  }
+                },
+                {
+                  "NCR TRAINING OPERATIONS DIRECTORATE": {
+                    "id": 148188
+                  }
+                },
+                {
+                  "OFFICE OF SECURITY AND PROFESSIONAL RESPONSIBILITY": {
+                    "id": 177831
+                  }
+                },
+                {
+                  "OFFICE OF THE CHIEF FINANCIAL OFFICER": {
+                    "id": 148192
+                  }
+                },
+                {
+                  "OFFICE OF THE CHIEF INFORMATION OFFICER": {
+                    "id": 148193
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "IMMIGRATION AND CUSTOMS ENFORCEMENT": {
+              "id": 30704,
+              "offices": [
+                {
+                  "ENFORCEMENT AND REMOVAL OPERATIONS DIRECTORATE": {
+                    "id": 116065
+                  }
+                },
+                {
+                  "HOMELAND SECURITY INVESTIGATIONS": {
+                    "id": 148240
+                  }
+                },
+                {
+                  "MANAGEMENT AND ADMINISTRATION DIRECTORATE": {
+                    "id": 148233
+                  }
+                },
+                {
+                  "OFFICE OF CONGRESSIONAL RELATIONS": {
+                    "id": 116064
+                  }
+                },
+                {
+                  "OFFICE OF FIREARMS AND TACTICAL PROGRAMS": {
+                    "id": 124914
+                  }
+                },
+                {
+                  "OFFICE OF INTELLIGENCE": {
+                    "id": 116067
+                  }
+                },
+                {
+                  "OFFICE OF PROFESSIONAL RESPONSIBILITY": {
+                    "id": 116070
+                  }
+                },
+                {
+                  "OFFICE OF PUBLIC AFFAIRS": {
+                    "id": 124915
+                  }
+                },
+                {
+                  "OFFICE OF THE DIRECTOR": {
+                    "id": 177832
+                  }
+                },
+                {
+                  "OFFICE OF THE PRINICPAL LEGAL ADVISOR": {
+                    "id": 116069
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "MANAGEMENT DIRECTORATE": {
+              "id": 25275,
+              "offices": [
+                {
+                  "FEDERAL PROTECTIVE SERVICE": {
+                    "id": 116066
+                  }
+                },
+                {
+                  "OFFICE OF BIOMETRIC IDENTITY MANAGEMENT": {
+                    "id": 126362
+                  }
+                },
+                {
+                  "OFFICE OF THE CHIEF ADMINISTRATIVE SERVICES OFFICER": {
+                    "id": 116075
+                  }
+                },
+                {
+                  "OFFICE OF THE CHIEF FINANCIAL OFFICER": {
+                    "id": 116076
+                  }
+                },
+                {
+                  "OFFICE OF THE CHIEF HUMAN CAPITAL OFFICER": {
+                    "id": 116077
+                  }
+                },
+                {
+                  "OFFICE OF THE CHIEF INFORMATION OFFICER": {
+                    "id": 116078
+                  }
+                },
+                {
+                  "OFFICE OF THE CHIEF PROCUREMENT OFFICER": {
+                    "id": 116079
+                  }
+                },
+                {
+                  "OFFICE OF THE CHIEF READINESS SUPPORT OFFICER": {
+                    "id": 148181
+                  }
+                },
+                {
+                  "OFFICE OF THE CHIEF SECURITY OFFICER": {
+                    "id": 116080
+                  }
+                },
+                {
+                  "PROGRAM ACCOUNTABILITY AND RISK MANAGEMENT": {
+                    "id": 127413
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OFFICE OF INTELLIGENCE AND ANALYSIS": {
+              "id": 30683,
+              "offices": [
+                {
+                  "INTELLIGENCE ENTERPRISE OPERATIONS": {
+                    "id": 148208
+                  }
+                },
+                {
+                  "INTELLIGENCE ENTERPRISE READINESS": {
+                    "id": 148217
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OFFICE OF OPERATIONS COORDINATION": {
+              "id": 30684,
+              "offices": [
+                {
+                  "CONTINUITY DIVISION": {
+                    "id": 148221
+                  }
+                },
+                {
+                  "CURRENT OPERATIONS DIVISION": {
+                    "id": 148225
+                  }
+                },
+                {
+                  "MISSION SUPPORT DIVISION": {
+                    "id": 148228
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "OFFICE OF STRATEGY, POLICY, AND PLANS": {
+              "id": 30685,
+              "offices": [
+                {
+                  "COUNTERTERRORISM, THREAT PROTECTION AND LAW ENFORCEMENT (CTTPLE)": {
+                    "id": 148272
+                  }
+                },
+                {
+                  "OFFICE OF BORDER, IMMIGRATION AND TRADE POLICY": {
+                    "id": 148273
+                  }
+                },
+                {
+                  "OFFICE OF CYBER, INFRASTRUCTURE & RESILIENCE POLICY": {
+                    "id": 148274
+                  }
+                },
+                {
+                  "OFFICE OF IMMIGRATION STATISTICS": {
+                    "id": 30711
+                  }
+                },
+                {
+                  "OFFICE OF INTERNATIONAL AFFAIRS": {
+                    "id": 30712
+                  }
+                },
+                {
+                  "OFFICE OF INTERNATIONAL ENGAGEMENT": {
+                    "id": 148271
+                  }
+                },
+                {
+                  "OFFICE OF STRATEGY, PLANS, ANALYSIS & RISK": {
+                    "id": 30714
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
