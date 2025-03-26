@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import time
 import re
+import os
 
 #credentials
 token_url = "https://services.govwin.com/neo-ws/oauth/token"
@@ -340,6 +341,25 @@ def extract_response_date_from_procurement(procurement_text):
     
     return None
 
+def load_processed_opportunities(cache_file="processed_opportunities.json"):
+    """Load the list of previously processed opportunity IDs from cache file"""
+    try:
+        if os.path.exists(cache_file):
+            with open(cache_file, 'r') as f:
+                return json.load(f)
+        return []
+    except Exception as e:
+        print(f"Error loading processed opportunities cache: {str(e)}")
+        return []
+
+def save_processed_opportunities(processed_ids, cache_file="processed_opportunities.json"):
+    """Save the list of processed opportunity IDs to cache file"""
+    try:
+        with open(cache_file, 'w') as f:
+            json.dump(processed_ids, f, indent=4)
+    except Exception as e:
+        print(f"Error saving processed opportunities cache: {str(e)}")
+
 def get_filtered_opportunities(whitelist_file):
     """Fetch opportunities and filter by govEntity ID"""
     # Get OAuth token first
@@ -347,6 +367,10 @@ def get_filtered_opportunities(whitelist_file):
     if not token:
         print("Failed to obtain OAuth token")
         return []
+
+    # Load previously processed opportunities
+    processed_opportunities = load_processed_opportunities()
+    print(f"\nLoaded {len(processed_opportunities)} previously processed opportunities from cache")
 
     url = "https://services.govwin.com/neo-ws/opportunities"
     headers = {'Authorization': f'Bearer {token}', 'Accept': 'application/json'}
@@ -400,8 +424,7 @@ def get_filtered_opportunities(whitelist_file):
                 gov_entity = opp.get('govEntity', {})
                 gov_entity_id = gov_entity.get('id')
                 status = opp.get('status', 'N/A')
-                
-                
+                opp_id = opp.get('solicitationNumber', 'N/A')
 
                 print("\n" + "="*80)
                 print(f"Opportunity:")
@@ -413,10 +436,14 @@ def get_filtered_opportunities(whitelist_file):
                 print("\nFiltering Results:")
                 print(f"Status: {'✓' if status in valid_statuses else '✗'}")
                 print(f"GovEntity ID Match: {'✓' if gov_entity_id in whitelisted_ids else '✗'}")
+                print(f"Previously Processed: {'✓' if opp_id in processed_opportunities else '✗'}")
                 
-                # Only add opportunities that match both criteria
-                if gov_entity_id in whitelisted_ids and status in valid_statuses:
+                # Only add opportunities that match all criteria and haven't been processed before
+                if (gov_entity_id in whitelisted_ids and 
+                    status in valid_statuses and 
+                    opp_id not in processed_opportunities):
                     all_opportunities.append(opp)
+                    processed_opportunities.append(opp_id)
                     print("Overall Match: ✓")
                 else:
                     print("Overall Match: ✗")
@@ -434,11 +461,23 @@ def get_filtered_opportunities(whitelist_file):
             print(f"Error processing opportunities: {str(e)}")
             break
 
+    # Save updated processed opportunities list
+    save_processed_opportunities(processed_opportunities)
     print(f"\nTotal matching opportunities found: {len(all_opportunities)}")
+    print(f"Total processed opportunities in cache: {len(processed_opportunities)}")
     return all_opportunities
 
-def save_to_csv(opportunities, filename="opportunities.csv"):
-    """Save filtered opportunities to a CSV file"""
+def save_to_csv(opportunities):
+    """Save filtered opportunities to a CSV file with timestamp in opportunities folder"""
+    # Create opportunities directory if it doesn't exist
+    if not os.path.exists('opportunities'):
+        os.makedirs('opportunities')
+        print("Created 'opportunities' directory")
+
+    # Generate timestamp for filename
+    timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+    filename = f"opportunities/TaskOrder_{timestamp}.csv"
+
     fieldnames = [
         "Opportunity Number",
         "Opportunity Name",
@@ -507,7 +546,7 @@ def save_to_csv(opportunities, filename="opportunities.csv"):
                 "Procurement": procurement_text
             })
 
-    print("Save completed.")
+    print(f"Save completed. File saved as: {filename}")
 
 # Main function
 def main():
@@ -517,7 +556,7 @@ def main():
         opportunities = get_filtered_opportunities(whitelist_file)
         if opportunities:
             save_to_csv(opportunities)
-            print(f"\nSuccessfully saved {len(opportunities)} opportunities to opportunities.csv")
+            print(f"\nSuccessfully saved {len(opportunities)} opportunities")
         else:
             print("\nNo matching opportunities found to save")
     except Exception as e:
