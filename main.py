@@ -352,7 +352,7 @@ def get_filtered_opportunities(whitelist_file):
     headers = {'Authorization': f'Bearer {token}', 'Accept': 'application/json'}
 
     # Calculate yesterday's date for 1-day filter
-    yesterday = (datetime.utcnow() - timedelta(days=2)).strftime('%Y-%m-%dT%H:%M:%S')
+    yesterday = (datetime.utcnow() - timedelta(days=1)).strftime('%Y-%m-%dT%H:%M:%S')
     current_time = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%S')
 
     # Load whitelist of govEntity IDs
