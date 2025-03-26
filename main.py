@@ -352,7 +352,7 @@ def get_filtered_opportunities(whitelist_file):
     headers = {'Authorization': f'Bearer {token}', 'Accept': 'application/json'}
 
     # Calculate yesterday's date for 1-day filter
-    yesterday = (datetime.utcnow() - timedelta(days=1)).strftime('%Y-%m-%dT%H:%M:%S')
+    yesterday = (datetime.utcnow() - timedelta(days=2)).strftime('%Y-%m-%dT%H:%M:%S')
     current_time = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%S')
 
     # Load whitelist of govEntity IDs
@@ -373,7 +373,7 @@ def get_filtered_opportunities(whitelist_file):
         params = {
             'max': max_per_page,
             'offset': offset,
-            'oppType': 'OPP',
+            'oppType': 'TNS',
             'sort': 'relevancy',
             'order': 'desc',
             'oppSelectionDateFrom': yesterday,
@@ -387,8 +387,13 @@ def get_filtered_opportunities(whitelist_file):
                 break
 
             data = response.json()
+            with open("response.json", "w") as jsonfile:
+                json.dump(data, jsonfile, indent=4)
+
             opportunities = data.get('opportunities', [])
             total_count = data.get('totalCount', 0)
+
+            print(f"Processing {len(opportunities)} opportunities...")
 
             # Process each opportunity in this batch
             for opp in opportunities:
@@ -396,6 +401,8 @@ def get_filtered_opportunities(whitelist_file):
                 gov_entity_id = gov_entity.get('id')
                 status = opp.get('status', 'N/A')
                 
+                
+
                 print("\n" + "="*80)
                 print(f"Opportunity:")
                 print(f"ID: {opp.get('iqOppId', 'N/A')}")
@@ -445,6 +452,7 @@ def save_to_csv(opportunities, filename="opportunities.csv"):
         "Set-Aside",
         "LOE",
         "Status",
+        "Solicitation Number",
         "Government Entity ID",
         "Government Entity Title",
         "Procurement"
@@ -493,6 +501,7 @@ def save_to_csv(opportunities, filename="opportunities.csv"):
                 "Set-Aside": ", ".join([ct.get('title', 'N/A') for ct in opp.get('competitionTypes', [])]) if opp.get('competitionTypes') else 'N/A',
                 "LOE": opp.get('duration', 'N/A'),
                 "Status": opp.get('status', 'N/A'),
+                "Solicitation Number": opp.get("solicitationNumber", None),
                 "Government Entity ID": gov_entity.get('id', 'N/A'),
                 "Government Entity Title": gov_entity.get('title', 'N/A'),
                 "Procurement": procurement_text

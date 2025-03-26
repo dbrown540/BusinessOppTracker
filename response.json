@@ -1,0 +1,2150 @@
+{
+    "links": {},
+    "meta": {
+        "paging": {
+            "max": 100,
+            "offset": 0,
+            "order": "desc",
+            "sort": "relevancy",
+            "totalCount": 16
+        }
+    },
+    "opportunities": [
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2191483"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2191483/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2191483/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2191483/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2191483/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/25212"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2191483/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-03-26T13:17:09.077",
+            "description": "On behalf of Department of Health and Human Services (HHS), GSA is conducting market research.  To respond to this RFI, copy and paste the below link into a new browser.  Only responses submitted through the linked RFI will be accepted. Nothing else will be evaluated or recorded (this includes selecting 'interested' within eBuy).   Link to RFI: https://feedback.gsa.gov/jfe/form/SV_eMer6FlqbhBazSS   Important Notice: Due to the structure of contracts in GSA eBuy, you may receive multiple Sources Sought or RFQ notifications for the same requirement if it falls under multiple of your company's awarded SINs. However, please note that you are only required to respond to the RFI once.  Be sure to use the URL provided above to submit your response.   Note: If the link does not work, try clearing your browser history (cache) and then copying and pasting the link into a new browser.  Questions regarding this RFI will be responded to by email only. Send your inquiry to: rfi@research.gsa.gov - be sure to include the RFQ number.",
+            "govEntity": {
+                "id": 25212,
+                "title": "HEALTH AND HUMAN SERVICES"
+            },
+            "id": "TNS2191483",
+            "iqOppId": 2191483,
+            "procurement": "New Task Order created.",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-04-02T17:00:00.000"
+            },
+            "smartTag": "",
+            "smartTagObject": [
+                {
+                    "id": "C2D53731-E64A-5D3E-8E61-FBAF6188CC59",
+                    "name": "Barriers",
+                    "type": "Structure",
+                    "isPrimary": 0
+                }
+            ],
+            "solicitationDate": {
+                "value": "2025-03-26T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1749876",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Forecast Pre-RFP",
+            "title": "HHS FDA - PRIMARY BARRIER EQUIPMENT SERVICES - MRAS (RFI)",
+            "type": "toon",
+            "updateDate": "2025-03-26T13:17:09.077"
+        },
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2179549"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2179549/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2179549/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2179549/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2179549/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/25809"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2179549/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-03-06T14:44:24.423",
+            "description": "The Internal Revenue Service is seeking quotes for the Business Online Accounts and Clean Energy O&M Support Services Requirement. BTA and Clean Energy Programs, AGILE Technology/Web Application (WebApps) support Services\\\" requirement seeking support for this task order; the scope is for high performing Operation and Maintenance (O&M) teams to provide software O&M development support. The contractor shall provide technical method, techniques, and concepts that are innovative, practical, cost effective, and conducive to Agile/Iterative Application Development, testing, and delivery. The contractor shall support applications based on their original requirements that may require enhancements, updates and fixes as the business climate shifts. It is expected that all code developed by the teams will be for enhancements or critical changes to existing functionality as identified and prioritized by the Government product owners.  All inquiries must be received no later than 5:00pm EST on Thursday, April 3rd 2025.   Although the Government established an inquiry submission date, the agency may not respond to every question received. If IRS does respond to questions, it will do so via an amendment to the solicitation. Additionally, questions shall be submitted via eBuy by the stated date and time above.   Contractors must submit quotations using the eBuy web portal before the solicitation closing date and time. All quotations are due no later than before 5:00pm EST on Wednesday, March 20th, 2025. This solicitation requires electronic submission (via eBuy) of quotations. Any quotation, modification, revision, or  withdrawal of a quotation received after the exact time specified for receipt of quotations is \\\"late\\\" and will not be considered.",
+            "duration": "",
+            "govEntity": {
+                "id": 25809,
+                "title": "INTERNAL REVENUE SERVICE"
+            },
+            "id": "TNS2179549",
+            "iqOppId": 2179549,
+            "procurement": "Update from Government site: 1. 03/19/2025 - This amendment is issued to modify the referenced RFQ as follows:nn1. Removal of the multiple references to a blanket purchase agreement (BPA) within the PWS to eliminate confusion. BPA order types are not allowed per the Master Contract. Specifically, paragraph 5.0 (pg. 14, 15), paragraph 6.1 & 6.2, (pg.16), paragraph 6.3 (pg.17), paragraph 6.4 (pg. 34), paragraph 6.5 (pg. 37), paragraph 6.6 (pg. 38), paragraph 6.7 (pg. 39), 9.0(pg. 56), and paragraph 12.0 (pg. 57).nn2. Extended the RFQ submission deadline from March 20, 2025 to April 3, 2025, to ensure vendors have sufficient time to incorporate responses to the delayed Q&A (pg. 2, 3, & 116). Another amendment will be created once Q&A has been received.nn3. Revised the Period of Performance (POP) from March 31, 2025 March 30, 2026 to April 17, 2025 April 16, 2026 (pg.3, 5 & pg.55).nn4. A Contract Access Fee (CAF) is located on the schedule of the RFQ (pg. 5) but was not on the pricing template. The pricing template has been updated to add the CAF at CLIN 0021. Offerors should review the updated pricing template and factor the CAF into their proposed pricing accordingly.nnAll other terms and conditions of the original RFQ remain unchanged. 2. 03/26/2025 - RFQ No.: 205AE9-25-Q-00048 nAmendment No.: 0002 nnThis amendment is issued to modify the referenced RFQ as follows:nn1.Answers for the Q&A have been uploaded to the GSA eBuy system. Please review. The current Period of Performance has not changed.nn2.Summary of O&M Team Members on page 21of the RFQ has been updated to reflect the Pricing Worksheet.nnAll other terms and conditions of the original RFQ remain unchanged.",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-04-03T17:00:00.000"
+            },
+            "smartTag": "Products & Services > Primary Tags:Business process improvement services, Information technology services, Renewable energy services, Secondary Tags:Administrative training services , Artificial Intelligence , Business intelligence services , Computer repair services , Construction management services , Cost estimation services , Cyber security services , Data management services , Data recovery services , Data warehouse services , Database administration , Database design , Design/build services , Document destruction services , Document preservation and restoration services , E-mail services , Economic studies , Employment screening services , Energy audit services , Energy consulting services , Energy efficiency programs , Energy management services , Environmental impact statement services , Feasibility studies , Information architecture , Information technology staffing services , Information technology training services , Infrastructure as a service , Infrastructure design services , Inspection services , Interior design services , Internet service providers , Land use services , Management consulting services , Mapping services , Master plan services , Mobile device management services , Network services , Operational planning services , Organizational services , Performance contracting , Performance evaluation services , Platform as a service , Professional HVAC services , Program management services , Project management services , Quality control services , Search engine services , Smoke testing , Software as a service , Software development , Software installation , Software maintenance , Storage as a service , Systems engineering services , Temporary staffing services , Web design services , ",
+            "smartTagObject": [
+                {
+                    "id": "E04FD4CD-8F5C-553F-B796-006A338A2A6F",
+                    "name": "Management consulting services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "FF72CAD4-49CB-55CF-A2A4-02044294ABC2",
+                    "name": "Operational planning services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "F79C3BFF-B09A-5F3A-8880-022906CB8A2A",
+                    "name": "Data recovery services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "82CCAF60-9661-5FF4-892C-04E0C35C0199",
+                    "name": "Construction management services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "B9A9DC9C-7F4F-51FF-8140-0A05BF9AB5FA",
+                    "name": "Economic studies",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "625C62FA-314D-5141-AA1B-0A833E6D00BD",
+                    "name": "Data management services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5FFDE478-B670-5E8D-8516-0FACEDAF6298",
+                    "name": "Mapping services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "57769AB7-16E8-46D6-8177-104FA2EDE10F",
+                    "name": "Inspection services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "123861D5-9717-531F-A327-1195AE32A999",
+                    "name": "Software development",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "F7438638-5A4B-4267-BDA1-13B32F91DB62",
+                    "name": "Infrastructure as a service",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "3D74FE96-1CBC-585F-AEDE-1540081C1C45",
+                    "name": "Energy efficiency programs",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "EEC22D34-13F7-4727-85C3-1D3CF34D2BF5",
+                    "name": "Computer repair services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "8A9EDCC9-D0BB-5776-BB5A-1E84871739ED",
+                    "name": "Cost estimation services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "2DFEDB3E-19D6-55B9-B581-214A89BE697A",
+                    "name": "Administrative training services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "F23CE89F-6296-5629-B6D0-21E03B3D8FD2",
+                    "name": "Environmental impact statement services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "41D45059-D060-5D0D-A8B1-2F817677CEAE",
+                    "name": "Database administration",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "4A72CD95-2845-52AD-B29D-335C79DB701D",
+                    "name": "Performance contracting",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "CCDAAE78-FC22-4317-89B5-33D4426F6305",
+                    "name": "Smoke testing",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "0587EBC0-10CE-59DD-A2B0-3477695E75CF",
+                    "name": "Temporary staffing services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "36AB4B28-BF18-545B-AF4D-381A69100129",
+                    "name": "Business process improvement services",
+                    "type": "Services",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "FA9697F8-8F8B-595C-A146-401CC49FA3DF",
+                    "name": "Software installation",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5D61CB4A-5E4F-4211-ADB5-4BA1946ABCC1",
+                    "name": "Platform as a service",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "56BD315A-CAD6-5D1E-A828-4F81506E4280",
+                    "name": "Organizational services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "24F7F83B-4215-4320-84E9-55482BB55451",
+                    "name": "Data warehouse services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "AD8E68D4-7BD9-4600-B108-5624FC530E8C",
+                    "name": "Systems engineering services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "F7AEB2F5-93AE-5E34-8740-586495F36036",
+                    "name": "Internet service providers",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "879B0D17-DFF6-4458-A912-5C4E932BEA03",
+                    "name": "Mobile device management services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "7A6392D4-6322-5683-9856-5F27963ECAA9",
+                    "name": "Interior design services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "D1B33316-E851-4E8C-A0BF-6D6C3CBAA5BC",
+                    "name": "Feasibility studies",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "7FE2238D-3353-5880-8222-6F363D3EDD23",
+                    "name": "Energy management services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "E5ED4CD8-AC2A-5388-BF50-7124DC9239F8",
+                    "name": "Information technology services",
+                    "type": "Services",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "FF4A61F0-FA3E-5374-B797-729F71308D5B",
+                    "name": "Quality control services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5E40085A-A042-5EAC-AF60-733B9B18D5C8",
+                    "name": "Network services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "08ABC677-86FA-4D16-AE1F-7F5173593848",
+                    "name": "Design/build services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "AA95E200-8B5C-5328-9831-83324F31CFAE",
+                    "name": "Program management services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "3E0DA5C9-AB06-54D1-81D5-875FFD865977",
+                    "name": "Search engine services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "CFD20F71-5735-555E-96C4-8961E92414DE",
+                    "name": "Employment screening services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "1EA7EB75-1216-56AA-9B96-8A548AD822DC",
+                    "name": "Information technology staffing services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5FFD5A97-F37F-50FF-8C3D-8ECEA5B926D9",
+                    "name": "Database design",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "9FC15C28-A157-56B4-8E97-90F9A4F5E7CC",
+                    "name": "Professional HVAC services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "D1C2A2AF-19D1-5F11-93F4-92B51B1BE423",
+                    "name": "Business intelligence services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "9FF8E78E-29B6-4D49-AD12-94B63BB0B878",
+                    "name": "Performance evaluation services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5EF6355E-ACDD-5601-B67E-9C668A8ADF30",
+                    "name": "Software maintenance",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "DAEDD427-F400-4143-A9F3-A59A7181070A",
+                    "name": "Cyber security services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "61F2A0F5-2FA0-5EB8-B10A-A7E5080068B7",
+                    "name": "E-mail services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "FD9C029E-B9DD-554A-BB33-AD3B23B061B7",
+                    "name": "Renewable energy services",
+                    "type": "Services",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "0C7C247E-FFD7-40F0-B3C0-B06514C932AA",
+                    "name": "Information technology training services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "861D870E-8A0E-5743-890A-B2F8FDEA1709",
+                    "name": "Document destruction services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "D17A87EF-E6B5-574D-91E2-B690A92E4E6A",
+                    "name": "Project management services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "7F0CCD86-680C-44A7-B237-BF5DEC0A0C4B",
+                    "name": "Storage as a service",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "9FBC2F1D-FE14-5FE6-952B-BFB857399A98",
+                    "name": "Energy consulting services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "B4E3FB2D-9075-51DA-B4A4-C92D2121C09A",
+                    "name": "Land use services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "63626A34-1B93-48D4-BE53-CB65C0D8684D",
+                    "name": "Master plan services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "4479ADE1-8AFF-5B8A-B803-CF458F5ADBA7",
+                    "name": "Web design services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5A032E41-EF43-487A-9B6E-D933B1C695CF",
+                    "name": "Software as a service",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "DFADCD2E-41D4-499C-89FE-DA7E937BDE48",
+                    "name": "Information architecture",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "CC34D266-DFD7-4B64-8F92-DD2E512AB0DD",
+                    "name": "Infrastructure design services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "9C904BC4-B92C-54C6-8A0F-E3E7BCA90AAA",
+                    "name": "Document preservation and restoration services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "1BA501E1-B22D-47E0-AE20-E64E6DDDC5FF",
+                    "name": "Artificial Intelligence",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "9C3EEA75-2761-5D66-A7BA-F5346D95A314",
+                    "name": "Energy audit services",
+                    "type": "Services",
+                    "isPrimary": 0
+                }
+            ],
+            "solicitationDate": {
+                "value": "2025-03-06T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1747032",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Post-RFP",
+            "title": "BUSINESS ONLINE ACCOUNTS AND CLEAN ENERGY O&M SUPPORT SERVICES",
+            "type": "toon",
+            "updateDate": "2025-03-26T12:22:48.400"
+        },
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2180563"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2180563/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2180563/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2180563/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2180563/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/24836"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2180563/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-03-10T09:22:27.407",
+            "description": " Please see attached documentation.<br>*SB*",
+            "duration": "",
+            "govEntity": {
+                "id": 24836,
+                "title": "COMMERCE"
+            },
+            "id": "TNS2180563",
+            "iqOppId": 2180563,
+            "procurement": "Update from Government site: 1. 03/10/2025 - Amendment 0001 - See Performance Work Statement 2. 03/26/2025 - Attached is the Q&A with revised RFQ and PWS. Proposals are due 3/31/2025. Time has changed to 4:00pm.",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-03-31T16:00:00.000"
+            },
+            "smartTag": "Products & Services > Primary Tags:Software as a service, Web software, Secondary Tags:Agenda management software , Analytics software , Content management software , Cyber security services , Data management services , Database development , Document imaging services , Mass notification system products , Office applications , Online subscriptions , Paging systems , Search engine services , Software maintenance , Teleconference products , Web design services , ",
+            "smartTagObject": [
+                {
+                    "id": "055B0A5B-3B05-58F0-9579-056DF38C730F",
+                    "name": "Content management software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "048F211F-EC44-5B0A-8C59-06B29B9FD54D",
+                    "name": "Mass notification system products",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "625C62FA-314D-5141-AA1B-0A833E6D00BD",
+                    "name": "Data management services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "C674ABC5-96E6-4711-9822-250ADF5C243D",
+                    "name": "Agenda management software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "797E79D8-BAB4-5C35-BD2E-3368CC85E8C1",
+                    "name": "Paging systems",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "3AB5E2BA-194F-48F7-8978-3E8D64E2D9E0",
+                    "name": "Analytics software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "8D8A6EE7-2EE2-53ED-8346-46E631B8D9C5",
+                    "name": "Teleconference products",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "3E0DA5C9-AB06-54D1-81D5-875FFD865977",
+                    "name": "Search engine services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5EF6355E-ACDD-5601-B67E-9C668A8ADF30",
+                    "name": "Software maintenance",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5B027316-CB81-5591-B676-A34B7BEBAA6D",
+                    "name": "Database development",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "DAEDD427-F400-4143-A9F3-A59A7181070A",
+                    "name": "Cyber security services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "BC87B572-924F-5EAB-B132-AC7869813715",
+                    "name": "Document imaging services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "4479ADE1-8AFF-5B8A-B803-CF458F5ADBA7",
+                    "name": "Web design services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5A032E41-EF43-487A-9B6E-D933B1C695CF",
+                    "name": "Software as a service",
+                    "type": "Services",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "25820A3E-C633-5CEA-82EB-DD437F2EB8C5",
+                    "name": "Web software",
+                    "type": "Products",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "38926525-A3C6-588F-8DCE-EC7139AF6C7F",
+                    "name": "Office applications",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "BB29CDA1-5709-5084-85D2-F5887CD3F949",
+                    "name": "Online subscriptions",
+                    "type": "Services",
+                    "isPrimary": 0
+                }
+            ],
+            "solicitationDate": {
+                "value": "2025-03-10T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1747378",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Post-RFP",
+            "title": "SECTION 508 WEB CONFORMANCE SOFTWARE AS A SERVICE (SAAS)",
+            "type": "toon",
+            "updateDate": "2025-03-26T12:22:47.323"
+        },
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2168926"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2168926/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2168926/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2168926/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2168926/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/25834"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2168926/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-02-19T15:32:09.867",
+            "description": "The Department of Veteran Affairs (VA) Veterans Benefits Administration (VBA) Medical Disability Examination Office (MDEO) contracts with Vendors (hereby referenced as contract exam vendors) to perform Compensation and Pension (C&P) disability examinations for Veterans. All Vendor examiners are required to complete specific certification and supplemental trainings prior to performing Medical Disability Examinations (MDEs). Once certified, all Vendor examiners are required to complete additional ad-hoc training as deemed required by MDEO.   <br>*SB*",
+            "duration": "",
+            "govEntity": {
+                "id": 25834,
+                "title": "VETERANS AFFAIRS"
+            },
+            "id": "TNS2168926",
+            "iqOppId": 2168926,
+            "procurement": "Update from Government site: 1. 03/06/2025 - The purpose of Amendment 0001 is to post Questions and Responses, update the solicitation, update the PWS on Attachment 1 and 2, and update the date for receipt of offers. 2. 03/18/2025 - The purpose of Amendment 0002 is to post additional Questions and Responses and update the PWS on Attachments 1 and 2. 3. 03/25/2025 - The purpose of this amendment 0003 is to post additional questions and responses. 4. 03/26/2025 - The purpose of this Amendment is to extend the due date.",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-04-01T10:00:00.000"
+            },
+            "smartTag": "Products & Services > Primary Tags:Learning management software, Student assessment and information systems, Secondary Tags:Analytics software , Billing software , Business intelligence software , Cloud computing software , Computer storage , Content management software , Data management software , Desktop computers , Digital media software , Distance learning software , Financial software , Firewall hardware , Hard drives , Healthcare management software , Human resource management software , Networking software , Office applications , Online meeting software , Operating system software , Paging systems , Performance management software , Permit tracking software , Project management software , Public safety software , Security software , Servers , Social software , Telecommunications equipment , Telephones , Uninterruptible power supplies , Virtualization software , Web software , ",
+            "smartTagObject": [
+                {
+                    "id": "055B0A5B-3B05-58F0-9579-056DF38C730F",
+                    "name": "Content management software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "E866E471-BD50-548C-B258-0F06A9057EE9",
+                    "name": "Social software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "04442E84-8BF1-5B16-A27D-31D525B7829D",
+                    "name": "Operating system software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "797E79D8-BAB4-5C35-BD2E-3368CC85E8C1",
+                    "name": "Paging systems",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "CA290898-72CB-531B-8897-381E330D2558",
+                    "name": "Public safety software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "E8B424C6-C139-4837-86B5-3E138F1F7540",
+                    "name": "Permit tracking software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "3AB5E2BA-194F-48F7-8978-3E8D64E2D9E0",
+                    "name": "Analytics software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "72BBEDEA-A463-4BD9-AE8C-42EE9CEBEC7B",
+                    "name": "Online meeting software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "991D7993-7E5F-5DEE-8CA4-4BD69D7C8B12",
+                    "name": "Networking software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "821CCF99-BCE9-521B-A34B-4DEF7F5AC92D",
+                    "name": "Project management software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "D226AEB2-B380-5AF7-BBC8-52CEBBA9B791",
+                    "name": "Performance management software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5672C85E-9347-5D4F-8CBA-569332552965",
+                    "name": "Telecommunications equipment",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "8CA75C0A-6F71-4ED1-A37A-5BA49CD0B252",
+                    "name": "Student assessment and information systems",
+                    "type": "Products",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "3743DEE1-CFBA-5356-8838-60505414A901",
+                    "name": "Business intelligence software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5B972B9D-32E0-53F9-9488-64F089E14F48",
+                    "name": "Data management software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "C4F62CDF-AA38-40A4-BFCA-698E8906C08C",
+                    "name": "Financial software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "3D00C476-880E-5A08-A3F0-6AD63BC1F0B7",
+                    "name": "Learning management software",
+                    "type": "Products",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "689E6C36-D865-554D-9D14-70ABC2A05CA2",
+                    "name": "Servers",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "818C4F9E-7741-5D62-8DBB-7CA04F13D346",
+                    "name": "Hard drives",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "C29996BE-891D-57ED-8465-7E75E38FDB0F",
+                    "name": "Healthcare management software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "18CA2F88-38A8-548A-A2A2-9467BFF5C984",
+                    "name": "Security software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "D4EF22B6-0CCE-56EA-AA73-9FEA3E818CCE",
+                    "name": "Computer storage",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "39115010-0AB0-40E6-B5EB-A92C614BA27C",
+                    "name": "Uninterruptible power supplies",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "F59E0F8B-1931-547C-9D41-AF95D981BD73",
+                    "name": "Firewall hardware",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "9FA20283-9A15-5CC0-A675-BE66E1EC56FA",
+                    "name": "Human resource management software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "C6C8944D-D04C-5B3D-9C21-C0033DEF714B",
+                    "name": "Billing software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "25820A3E-C633-5CEA-82EB-DD437F2EB8C5",
+                    "name": "Web software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "3C8AD7ED-74C9-5854-A3D4-DDC1A3BC11B6",
+                    "name": "Cloud computing software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "13576A86-0757-559B-89C2-E448E6863291",
+                    "name": "Virtualization software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "0E49745A-BC83-52F4-AC51-EC6F30D9A39C",
+                    "name": "Digital media software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "38926525-A3C6-588F-8DCE-EC7139AF6C7F",
+                    "name": "Office applications",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "F7B36086-36C7-5A82-AD86-F4B8FC05D3F2",
+                    "name": "Desktop computers",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "03A486D8-BA75-5CF5-808E-F77EBFF12BD5",
+                    "name": "Distance learning software",
+                    "type": "Products",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "BC56BF07-018E-55D8-A6A1-FF7520DD2381",
+                    "name": "Telephones",
+                    "type": "Products",
+                    "isPrimary": 0
+                }
+            ],
+            "solicitationDate": {
+                "value": "2025-02-19T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1744629",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Post-RFP",
+            "title": "LEARNING MANAGEMENT SYSTEM (LMS)",
+            "type": "toon",
+            "updateDate": "2025-03-26T11:47:24.097"
+        },
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2188917"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2188917/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2188917/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2188917/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2188917/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/24551"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2188917/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-03-21T18:15:43.363",
+            "description": "355 Contracting Squadron (CONS) is soliciting for one senior contract specialist and up to three intermediate contract specialists to provide in-person contract support at 355 CONS located on Davis-Monthan AFB in Tucson, Arizona. The attached Contracting Support Solicitation gives additional information regarding this solicitation, evaluation criteria, and evaluation methodology. Contractors are encouraged to fully review all attached documents to ensure full understanding of the solicitation. A contractor's failure to provide documentation in accordance with the attached solicitation documents will result in the offer to be considered non-responsive.  Key Dates Questions are due by 1 April 2025 at 5:00PM EST Answers will be provided by 4 April 2025 at 5:00 PM EST Quotes are due by 15 April 2025 at 1:00 PM EST  Primary POC for this action is SSgt Edilberto Sampang, edilberto.sampang@us.af.mil, 520-228-5461. Secondary POC is Jeremy Dedmon, jeremy.dedmon@us.af.mil, 520-228-4180. <br>*SB*",
+            "duration": "",
+            "govEntity": {
+                "id": 24551,
+                "title": "AIR FORCE"
+            },
+            "id": "TNS2188917",
+            "iqOppId": 2188917,
+            "procurement": "Update from Government site: 1. 03/25/2025 - Update the PPQ to change the scope of work to, \"The scope of work includes efforts involve the recruitment, placement, andnretention of contract specialists.\" In the event a contractor returns a PPQ with the previous verbiage it will be accepted by the government as long as the work can be determined to be in-scope.nnAdditionally, updates the verbiage in the Contracting Support Services attachment, Addendum to 52.212-2 Evaluation-Commercial Items, paragraph 2 Basis for Contract Award. Change allows the government to rank by price and stop evaluating after a technically acceptable quote with substantial confidence. Please review for full text.",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-04-15T13:00:00.000"
+            },
+            "smartTag": "Products & Services > Primary Tags:Temporary staffing services, Secondary Tags:Administrative training services , Business process improvement services , Employee performance review , Information technology staffing services , Labor relations services , Program management services , Quality control services , ",
+            "smartTagObject": [
+                {
+                    "id": "2DFEDB3E-19D6-55B9-B581-214A89BE697A",
+                    "name": "Administrative training services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "0587EBC0-10CE-59DD-A2B0-3477695E75CF",
+                    "name": "Temporary staffing services",
+                    "type": "Services",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "36AB4B28-BF18-545B-AF4D-381A69100129",
+                    "name": "Business process improvement services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "FF4A61F0-FA3E-5374-B797-729F71308D5B",
+                    "name": "Quality control services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "AA95E200-8B5C-5328-9831-83324F31CFAE",
+                    "name": "Program management services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "1EA7EB75-1216-56AA-9B96-8A548AD822DC",
+                    "name": "Information technology staffing services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "16318BAD-2944-5C14-9081-9601C0868CC5",
+                    "name": "Labor relations services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "C6708ADE-E1BD-5D09-8381-B2C961CE7599",
+                    "name": "Employee performance review",
+                    "type": "Services",
+                    "isPrimary": 0
+                }
+            ],
+            "solicitationDate": {
+                "value": "2025-03-21T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1749323",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Post-RFP",
+            "title": "CONTRACTING SUPPORT PERSONNEL SERVICES",
+            "type": "toon",
+            "updateDate": "2025-03-25T19:48:33.897"
+        },
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2182929"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2182929/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2182929/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2182929/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2182929/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/25378"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2182929/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-03-12T20:50:22.023",
+            "description": "REQUEST FOR QUOTE | OPEN SEASON for DOJ's Rapid Technology Services (RTS) Multiple Award BPA   The Department of Justice (DOJ) seeks to establish a multiple Blanket Purchase Agreements (BPA) with vendors to provide information technology (IT) services to support the requirement for low-code, rapid application development. The Department would like to expand the existing RTS BPA to include additional IT services that:  1. Go beyond sustaining and expanding use of current hardware, operating systems and software.   2. Increase business effectiveness and automation through the effective use and adoption of systems by leveraging new technologies and applications, best practices, and software.   3. Create new applications and introduce new technologies as they emerge.   4. Give expert assistance in configuring and managing computer hardware, software and networks, in training users, and in improving systems and network security.   5. Facilitate business change and flexibility by architecting, designing, and developing solutions that enable the rapid realization of new or changed requirements.   6. Protect the business by ensuring that systems, applications, data and practices are secure.   7. Measure and continually improve customer service and satisfaction.   SEE FULL STATEMENT OF WORK ATTACHED. ",
+            "duration": "",
+            "govEntity": {
+                "id": 25378,
+                "title": "JUSTICE MANAGEMENT DIVISION"
+            },
+            "id": "TNS2182929",
+            "iqOppId": 2182929,
+            "procurement": "Update from Government site: 1. 03/25/2025 - The purpose of this modification is to amend RFQ 1747955 to: 1) clarify this solicitation is a 100% small business set-aside, 2) add Attachment 6 to provide questions and answers and 3) extend the RFQ due date to Friday, April 4th, 2025. 2. 03/25/2025 - The purpose of modification #2 is to amend RFQ 1747955 to: 1) update Attachment 6 with the new RFQ due date of Friday, April 4th, 2025 at 12:00pm EDT.",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-04-04T12:00:00.000"
+            },
+            "smartTag": "Products & Services > Primary Tags:Information technology services, Secondary Tags:Artificial Intelligence , Business intelligence services , Computer assisted legal research , Computer repair services , Data backup services , Data capturing services , Data conversion services , Data recovery services , Data warehouse services , Database administration , Database design , E-mail services , Information architecture , Information technology staffing services , Information technology training services , Infrastructure as a service , Network security services , Platform as a service , Search engine services , Software as a service , Software consulting , Software development , Software maintenance , Web design services , ",
+            "smartTagObject": [
+                {
+                    "id": "F79C3BFF-B09A-5F3A-8880-022906CB8A2A",
+                    "name": "Data recovery services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "B554062C-5BC9-5140-B83E-091C786291BF",
+                    "name": "Data backup services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "9FE12F07-A511-4773-A642-10A38A124044",
+                    "name": "Network security services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "123861D5-9717-531F-A327-1195AE32A999",
+                    "name": "Software development",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "F7438638-5A4B-4267-BDA1-13B32F91DB62",
+                    "name": "Infrastructure as a service",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "EEC22D34-13F7-4727-85C3-1D3CF34D2BF5",
+                    "name": "Computer repair services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "41D45059-D060-5D0D-A8B1-2F817677CEAE",
+                    "name": "Database administration",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5D61CB4A-5E4F-4211-ADB5-4BA1946ABCC1",
+                    "name": "Platform as a service",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "0725B586-6F50-442F-8249-54D4629FB1B2",
+                    "name": "Software consulting",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "24F7F83B-4215-4320-84E9-55482BB55451",
+                    "name": "Data warehouse services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "E5ED4CD8-AC2A-5388-BF50-7124DC9239F8",
+                    "name": "Information technology services",
+                    "type": "Services",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "3E0DA5C9-AB06-54D1-81D5-875FFD865977",
+                    "name": "Search engine services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "1EA7EB75-1216-56AA-9B96-8A548AD822DC",
+                    "name": "Information technology staffing services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5FFD5A97-F37F-50FF-8C3D-8ECEA5B926D9",
+                    "name": "Database design",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "D1C2A2AF-19D1-5F11-93F4-92B51B1BE423",
+                    "name": "Business intelligence services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5EF6355E-ACDD-5601-B67E-9C668A8ADF30",
+                    "name": "Software maintenance",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "61F2A0F5-2FA0-5EB8-B10A-A7E5080068B7",
+                    "name": "E-mail services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "0C7C247E-FFD7-40F0-B3C0-B06514C932AA",
+                    "name": "Information technology training services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "A558A5A9-5DCB-4DD1-9CD9-BC37263C5133",
+                    "name": "Computer assisted legal research",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "4479ADE1-8AFF-5B8A-B803-CF458F5ADBA7",
+                    "name": "Web design services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "9A73912E-31BD-5774-B4A7-D1448438DC9A",
+                    "name": "Data conversion services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "68683F80-3799-5D73-BA3A-D5CACEEE60A5",
+                    "name": "Data capturing services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5A032E41-EF43-487A-9B6E-D933B1C695CF",
+                    "name": "Software as a service",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "DFADCD2E-41D4-499C-89FE-DA7E937BDE48",
+                    "name": "Information architecture",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "1BA501E1-B22D-47E0-AE20-E64E6DDDC5FF",
+                    "name": "Artificial Intelligence",
+                    "type": "Services",
+                    "isPrimary": 0
+                }
+            ],
+            "solicitationDate": {
+                "value": "2025-03-12T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1747955",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Post-RFP",
+            "title": "OPEN SEASON: RAPID TECHNOLOGY SERVICES MULTIPLE AWARD BPA",
+            "type": "toon",
+            "updateDate": "2025-03-25T19:22:21.947"
+        },
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2173478"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2173478/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2173478/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2173478/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2173478/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/25281"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2173478/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-02-26T12:15:36.597",
+            "description": "The scope of the PWS is to provide the Command, Control, Communication, Computer, Cyber and Intelligence Service Center (C5ISC) Engineering Services Division (ESD) Certified TEMPEST Technical Authority (CTTA) with the necessary service support in the areas of TEMPEST Certification on Recapitalization Program assets for CG-9335, CG-9322, CG-9324 and CG-9326 supported efforts. As well, as provide C5ISC with the necessary service support to assist the United States Coast Guard (USCG) C5ISC in Coast Guard TEMPEST Field Technical Authority (FTA) duties. The Contractor must provide technical and security management services for the area of certification by conducting TEMPEST testing, visual assessments, and performing documentation support services, and related training and Subject Matter Expert support for CG-9335, CG-9322, CG-9324 and CG-9326 programs of record including systems on the NSC, OPC, PSC, FRC, MRS, and LRS. The Contractor must provide FTA support, technical; generate reports and discrepancy lists; assist with help desk support for TEMPEST questions; Conduct Visual TEMPEST Inspections (VTI); evaluate C4IT systems for TEMPEST vulnerabilities and recommending countermeasures and generate VTI reports. Tasks must be performed to address the protection of all Classified USCG networks, systems, and information they contain, including secure voice/data, and Secret Internet Protocol Router Network (SIPRNET), and the Joint Worldwide Intelligence Communications System (JWICS). The activation of JWICS is not required for the Contractor to perform the VTI (SCI is not required).  Per the attachments and exhibits attached below.",
+            "duration": "",
+            "govEntity": {
+                "id": 25281,
+                "title": "US COAST GUARD"
+            },
+            "id": "TNS2173478",
+            "iqOppId": 2173478,
+            "procurement": "Update from Government site: 1. 03/21/2025 - As of a result of Questions received Request for Proposal (RFP) 70Z04424RESD12501 is hereby amended and all changes arenas follows: RFP_2.26.2025A001 has been revised with track changes Tempest Support Services RFP is updated RFP_A001,nAttachment 1-Tempest Support Services PWS was updated (one version with track changes and a clean copy), Attachment 2-nPricing Schedule was updated, Attachment 3-Classified Contract Requirements was updated, and a revised Attachment 4 -nPPQ (changed due date). A001 Tempest Support Services Q&A response to questions received and the PWS Exhibit A isnalso included.nProposal due date extended to 12:00 PM, Eastern, April 7th, 2025 2. 03/25/2025 - RFP Attachment 2- Pricing Schedule was updated, to change column (e) Government Site STARS III Rate to read ContractornSTARS III Rate on the Base and Option Tabs. See attached 70Z044RESD12501_ Attachment- Pricing Scheudle_A0002nProposal due date remains 12:00 PM, Eastern, April 7th, 2025.",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-04-07T12:00:00.000"
+            },
+            "smartTag": "Products & Services > Primary Tags:Information technology services, Secondary Tags:Artificial Intelligence , Business intelligence services , Computer repair services , Data management services , Data recovery services , Document destruction services , Document imaging services , E-mail services , Information technology training services , Internet service providers , Network security services , Platform as a service , Software as a service , Software development , Software maintenance , Web conference services , Web design services , ",
+            "smartTagObject": [
+                {
+                    "id": "F79C3BFF-B09A-5F3A-8880-022906CB8A2A",
+                    "name": "Data recovery services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "625C62FA-314D-5141-AA1B-0A833E6D00BD",
+                    "name": "Data management services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "9FE12F07-A511-4773-A642-10A38A124044",
+                    "name": "Network security services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "123861D5-9717-531F-A327-1195AE32A999",
+                    "name": "Software development",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "EEC22D34-13F7-4727-85C3-1D3CF34D2BF5",
+                    "name": "Computer repair services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5D61CB4A-5E4F-4211-ADB5-4BA1946ABCC1",
+                    "name": "Platform as a service",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "F7AEB2F5-93AE-5E34-8740-586495F36036",
+                    "name": "Internet service providers",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "E5ED4CD8-AC2A-5388-BF50-7124DC9239F8",
+                    "name": "Information technology services",
+                    "type": "Services",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "D1C2A2AF-19D1-5F11-93F4-92B51B1BE423",
+                    "name": "Business intelligence services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5EF6355E-ACDD-5601-B67E-9C668A8ADF30",
+                    "name": "Software maintenance",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "07486641-AAA3-52FE-B094-A0B4FA59C185",
+                    "name": "Web conference services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "61F2A0F5-2FA0-5EB8-B10A-A7E5080068B7",
+                    "name": "E-mail services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "BC87B572-924F-5EAB-B132-AC7869813715",
+                    "name": "Document imaging services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "0C7C247E-FFD7-40F0-B3C0-B06514C932AA",
+                    "name": "Information technology training services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "861D870E-8A0E-5743-890A-B2F8FDEA1709",
+                    "name": "Document destruction services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "4479ADE1-8AFF-5B8A-B803-CF458F5ADBA7",
+                    "name": "Web design services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5A032E41-EF43-487A-9B6E-D933B1C695CF",
+                    "name": "Software as a service",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "1BA501E1-B22D-47E0-AE20-E64E6DDDC5FF",
+                    "name": "Artificial Intelligence",
+                    "type": "Services",
+                    "isPrimary": 0
+                }
+            ],
+            "solicitationDate": {
+                "value": "2025-02-26T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1745613",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Post-RFP",
+            "title": "TEMPEST SUPPORT SERVICES",
+            "type": "toon",
+            "updateDate": "2025-03-25T15:09:42.407"
+        },
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2190447"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190447/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190447/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190447/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190447/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/24945"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190447/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-03-25T13:14:48.127",
+            "description": "The 763d Enterprise Sourcing Squadron (763 ESS) is seeking qualified, technically capable businesses for a Medical Information Technology Network & Desktop Support Services requirement in Scott Air Force Base, IL.  CONTRACTING OFFICE ADDRESS: 510 POW/MIA Drive, Scott Air Force Base, IL 62225  This is a Sources Sought notice to determine the availability and capability of small businesses (including the following subset: Service-Disabled Veteran-Owned Small Business (SDVOSB)) to provide the required services. Services include Medical Information Technology (IT) Support for Headquarters Air Mobility Command/Surgeon General and the 375th Medical Group on Scott Air Force Base, IL. See attached draft Performance Work Statement (PWS) for detailed scope of work. <br>*SB*",
+            "duration": "",
+            "govEntity": {
+                "id": 24945,
+                "title": "OFFICE OF THE SECRETARY OF DEFENSE"
+            },
+            "id": "TNS2190447",
+            "iqOppId": 2190447,
+            "procurement": "New Task Order created.",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-04-11T13:00:00.000"
+            },
+            "smartTag": "Products & Services > Primary Tags:Healthcare services, Information technology staffing services, Network services, ",
+            "smartTagObject": [
+                {
+                    "id": "AA4A229B-B4F8-53EA-ADAF-5252AC1277A6",
+                    "name": "Healthcare services",
+                    "type": "Services",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "5E40085A-A042-5EAC-AF60-733B9B18D5C8",
+                    "name": "Network services",
+                    "type": "Services",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "1EA7EB75-1216-56AA-9B96-8A548AD822DC",
+                    "name": "Information technology staffing services",
+                    "type": "Services",
+                    "isPrimary": 1
+                }
+            ],
+            "solicitationDate": {
+                "value": "2025-03-25T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1749638",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Forecast Pre-RFP",
+            "title": "MEDICAL INFORMATION TECHNOLOGY NETWORK & DESKTOP SUPPORT SERVICES (RFI)",
+            "type": "toon",
+            "updateDate": "2025-03-25T13:14:48.127"
+        },
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2190446"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190446/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190446/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190446/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190446/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/24945"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190446/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-03-25T13:14:46.940",
+            "description": "The 763d Enterprise Sourcing Squadron (763 ESS) is seeking qualified, technically capable businesses for a Medical Information Technology Network & Desktop Support Services requirement in Scott Air Force Base, IL.  CONTRACTING OFFICE ADDRESS: 510 POW/MIA Drive, Scott Air Force Base, IL 62225  This is a Sources Sought notice to determine the availability and capability of small businesses (including the following subset: Service-Disabled Veteran-Owned Small Business (SDVOSB)) to provide the required services. Services include Medical Information Technology (IT) Support for Headquarters Air Mobility Command/Surgeon General and the 375th Medical Group on Scott Air Force Base, IL. See attached draft Performance Work Statement (PWS) for detailed scope of work. <br>*SB*",
+            "duration": "",
+            "govEntity": {
+                "id": 24945,
+                "title": "OFFICE OF THE SECRETARY OF DEFENSE"
+            },
+            "id": "TNS2190446",
+            "iqOppId": 2190446,
+            "procurement": "New Task Order created.",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-04-11T13:00:00.000"
+            },
+            "smartTag": "Products & Services > Primary Tags:Healthcare services, Information technology staffing services, Network services, ",
+            "smartTagObject": [
+                {
+                    "id": "AA4A229B-B4F8-53EA-ADAF-5252AC1277A6",
+                    "name": "Healthcare services",
+                    "type": "Services",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "5E40085A-A042-5EAC-AF60-733B9B18D5C8",
+                    "name": "Network services",
+                    "type": "Services",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "1EA7EB75-1216-56AA-9B96-8A548AD822DC",
+                    "name": "Information technology staffing services",
+                    "type": "Services",
+                    "isPrimary": 1
+                }
+            ],
+            "solicitationDate": {
+                "value": "2025-03-25T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1749642",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Forecast Pre-RFP",
+            "title": "MEDICAL INFORMATION TECHNOLOGY NETWORK & DESKTOP SUPPORT SERVICES (RFI)",
+            "type": "toon",
+            "updateDate": "2025-03-25T13:14:46.940"
+        },
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2190438"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190438/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190438/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190438/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190438/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/24696"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190438/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-03-25T12:30:42.103",
+            "description": "Product Service Description: Conexus Plexus Maintenance Support. The service known as the Plexus Vision Asset Tracking System Maintenance is for the Irwin Army Community Hospital located at Ft. Riley, KS. Plexus is a logistic software program that is designed to track the movement of serialized assets. The three main components of the Conexus maintenance requirement are: (1) Help Desk which covers the Plexus Help Desk (24/7 coverage except Federal holidays), which includes general user support for software questions or troubleshooting, as well as System Administrator support, (2) Software Updates which covers any software updates required to maintain compliance with DoD accreditations and subject matter experts capable of addressing Cybersecurity or Information Assurance (IA) concerns or questions in relation the Plexus system, and (3) On-Site Support (Two 3-day On-Site visits) which covers Conexus site visits to IACH at least twice throughout the period of performance to ensure the system is functioning properly and that new users of the system receive adequate training and support through a variety of methods. Those methods include training sessions for new and/or existing Plexus users through classroom training, RTLS calibration support, inventory scanning, hardware troubleshooting, and other tasks as agreed upon with the Project Manager. The Project Manager is assigned to IACH site and is the coordinator for any on-site activity. NAICS 513210  Please see Attach documents PWS Wage Determination Solicitation Document   Please send solicitation information to:  Phyllis Senn phyllis.m.senn.civ@army.mil Teams (520) 944-7308   Sheila Banks sheila.a.banks.civ@army.mil Teams (520) 944 2224<br>*SB*",
+            "duration": "",
+            "govEntity": {
+                "id": 24696,
+                "title": "ARMY"
+            },
+            "id": "TNS2190438",
+            "iqOppId": 2190438,
+            "procurement": "New Task Order created.",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-03-27T13:00:00.000"
+            },
+            "smartTag": "",
+            "smartTagObject": [],
+            "solicitationDate": {
+                "value": "2025-03-25T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1749452",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Post-RFP",
+            "title": "FY25 CONEXUS FOLLOW-ON",
+            "type": "toon",
+            "updateDate": "2025-03-25T12:30:42.103"
+        },
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2146552"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2146552/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2146552/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2146552/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2146552/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/25735"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2146552/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-01-14T08:59:00.920",
+            "description": "Website Support Services to support the U.S. Department of State Bureau of Consular Affairs. Please see the attached solicitation documents. Written questions are due by January 29, 2025. Attachment B will be provided separately at a later date.   ",
+            "duration": "",
+            "govEntity": {
+                "id": 25735,
+                "title": "STATE"
+            },
+            "id": "TNS2146552",
+            "iqOppId": 2146552,
+            "procurement": "Update from Government site: 1. 01/21/2025 - The purpose of this posting is to provide Attachment B, Bidders DD 254. 2. 01/22/2025 - This posting provides Attachment G, Staffing Plan template. Section L.4.1.3(a) erroneously referenced Attachment S. This will be corrected in a forthcoming amendment. 3. 02/03/2025 - The purpose of this posting is to extend the due date for proposals to March 11, 2025. A formal amendment to the RFQ will follow once responses to the questions submitted are ready for release. 4. 03/05/2025 - The purpose of this posting is to extend the due date for proposals to March 31, 2025. A formal amendment to the RFQ will follow once responses to the questions submitted are ready for release. 5. 03/13/2025 - NOTICE: DOS is receiving many inquiries regarding the Q&As. Please note that an extremely large number of questions were submitted. DOS is working on the responses and they will be released once they are complete and internally cleared. Any extension to the due date will be determined after release of the Q&A. 6. 03/25/2025 - The purpose of this posting is to extend the due date for proposals to April 14, 2025. A formal amendment to the RFQ will follow once responses to the questions submitted are ready for release.",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-04-14T15:00:00.000"
+            },
+            "smartTag": "Products & Services > Primary Tags:Web design services, Secondary Tags:Artificial Intelligence , Business intelligence services , Computer repair services , Data backup services , Database administration , Database design , Document management services , E-mail services , Information architecture , Information technology staffing services , Information technology training services , Infrastructure as a service , Internet service providers , Network security services , Software as a service , Software development , Software installation , Software maintenance , ",
+            "smartTagObject": [
+                {
+                    "id": "B554062C-5BC9-5140-B83E-091C786291BF",
+                    "name": "Data backup services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "9FE12F07-A511-4773-A642-10A38A124044",
+                    "name": "Network security services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "123861D5-9717-531F-A327-1195AE32A999",
+                    "name": "Software development",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "F7438638-5A4B-4267-BDA1-13B32F91DB62",
+                    "name": "Infrastructure as a service",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "EEC22D34-13F7-4727-85C3-1D3CF34D2BF5",
+                    "name": "Computer repair services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "41D45059-D060-5D0D-A8B1-2F817677CEAE",
+                    "name": "Database administration",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "FA9697F8-8F8B-595C-A146-401CC49FA3DF",
+                    "name": "Software installation",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "F7AEB2F5-93AE-5E34-8740-586495F36036",
+                    "name": "Internet service providers",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "1EA7EB75-1216-56AA-9B96-8A548AD822DC",
+                    "name": "Information technology staffing services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5FFD5A97-F37F-50FF-8C3D-8ECEA5B926D9",
+                    "name": "Database design",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "C3F4F42A-F80F-50D0-84B0-91F895650081",
+                    "name": "Document management services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "D1C2A2AF-19D1-5F11-93F4-92B51B1BE423",
+                    "name": "Business intelligence services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5EF6355E-ACDD-5601-B67E-9C668A8ADF30",
+                    "name": "Software maintenance",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "61F2A0F5-2FA0-5EB8-B10A-A7E5080068B7",
+                    "name": "E-mail services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "0C7C247E-FFD7-40F0-B3C0-B06514C932AA",
+                    "name": "Information technology training services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "4479ADE1-8AFF-5B8A-B803-CF458F5ADBA7",
+                    "name": "Web design services",
+                    "type": "Services",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "5A032E41-EF43-487A-9B6E-D933B1C695CF",
+                    "name": "Software as a service",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "DFADCD2E-41D4-499C-89FE-DA7E937BDE48",
+                    "name": "Information architecture",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "1BA501E1-B22D-47E0-AE20-E64E6DDDC5FF",
+                    "name": "Artificial Intelligence",
+                    "type": "Services",
+                    "isPrimary": 0
+                }
+            ],
+            "solicitationDate": {
+                "value": "2025-01-14T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1739391",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Post-RFP",
+            "title": "WEBSITE SUPPORT SERVICES (WSS)",
+            "type": "toon",
+            "updateDate": "2025-03-25T12:22:03.000"
+        },
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2190275"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190275/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190275/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190275/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190275/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/25358"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190275/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-03-25T11:29:22.963",
+            "description": "Please see the attached.  Electronically written questions must be received by the Government not later than 11:00 AM EST on April 2, 2025.",
+            "duration": "",
+            "govEntity": {
+                "id": 25358,
+                "title": "JUSTICE"
+            },
+            "id": "TNS2190275",
+            "iqOppId": 2190275,
+            "procurement": "New Task Order created.",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-04-14T11:00:00.000"
+            },
+            "smartTag": "Products & Services > Primary Tags:Program management services, ",
+            "smartTagObject": [
+                {
+                    "id": "AA95E200-8B5C-5328-9831-83324F31CFAE",
+                    "name": "Program management services",
+                    "type": "Services",
+                    "isPrimary": 1
+                }
+            ],
+            "solicitationDate": {
+                "value": "2025-03-25T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1749606",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Post-RFP",
+            "title": "PROGRAM SUPPORT SERVICES",
+            "type": "toon",
+            "updateDate": "2025-03-25T11:29:22.963"
+        },
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2161495"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2161495/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2161495/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2161495/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2161495/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/25281"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2161495/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-02-06T16:04:58.080",
+            "description": "The Product Support Service Desk (PSSD) is to obtain a 3 Tier Information Technology (IT) product help desk support for the Product Support Service Desk (PSSD) in Kearneysville, West Virginia in support of the United States Coast Guard (USCG) Command, Control, Communications, Computers, Cyber and Intelligence Systems Center (C5ISC) and USCG IT systems.",
+            "duration": "",
+            "govEntity": {
+                "id": 25281,
+                "title": "US COAST GUARD"
+            },
+            "id": "TNS2161495",
+            "iqOppId": 2161495,
+            "procurement": "Update from Government site: 1. 03/04/2025 - The purpose of this amendment is to extend the proposal due date from March 6, 2025 to March 20, 2025 @3:00PM EST. 2. 03/18/2025 - The purpose of this amendment is to extend the proposal due date from March 20, 2025 to April, 3 2025 @3:00PM EST. The Questions & Answers responses have been delayed due to awaiting internal final clarifications. 3. 03/25/2025 - The purpose of this Amendment P00003 is to 1) provide responses to vendor questions in Attachment 7 - Questions and Answers and 2) revise four of the RFP documents (PWS, Appendix B, Attachment 5, and Attachment 6)",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-04-03T15:00:00.000"
+            },
+            "smartTag": "Products & Services > Primary Tags:Information technology services, Secondary Tags:Artificial Intelligence , Business intelligence services , Data capturing services , Document destruction services , Document preservation and restoration services , E-mail services , Information architecture , Information technology staffing services , Information technology training services , Internet service providers , Network security services , Platform as a service , Software as a service , Software consulting , Software development , Software installation , Web conference services , Web design services , ",
+            "smartTagObject": [
+                {
+                    "id": "9FE12F07-A511-4773-A642-10A38A124044",
+                    "name": "Network security services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "123861D5-9717-531F-A327-1195AE32A999",
+                    "name": "Software development",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "FA9697F8-8F8B-595C-A146-401CC49FA3DF",
+                    "name": "Software installation",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5D61CB4A-5E4F-4211-ADB5-4BA1946ABCC1",
+                    "name": "Platform as a service",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "0725B586-6F50-442F-8249-54D4629FB1B2",
+                    "name": "Software consulting",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "F7AEB2F5-93AE-5E34-8740-586495F36036",
+                    "name": "Internet service providers",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "E5ED4CD8-AC2A-5388-BF50-7124DC9239F8",
+                    "name": "Information technology services",
+                    "type": "Services",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "1EA7EB75-1216-56AA-9B96-8A548AD822DC",
+                    "name": "Information technology staffing services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "D1C2A2AF-19D1-5F11-93F4-92B51B1BE423",
+                    "name": "Business intelligence services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "07486641-AAA3-52FE-B094-A0B4FA59C185",
+                    "name": "Web conference services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "61F2A0F5-2FA0-5EB8-B10A-A7E5080068B7",
+                    "name": "E-mail services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "0C7C247E-FFD7-40F0-B3C0-B06514C932AA",
+                    "name": "Information technology training services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "861D870E-8A0E-5743-890A-B2F8FDEA1709",
+                    "name": "Document destruction services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "4479ADE1-8AFF-5B8A-B803-CF458F5ADBA7",
+                    "name": "Web design services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "68683F80-3799-5D73-BA3A-D5CACEEE60A5",
+                    "name": "Data capturing services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "5A032E41-EF43-487A-9B6E-D933B1C695CF",
+                    "name": "Software as a service",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "DFADCD2E-41D4-499C-89FE-DA7E937BDE48",
+                    "name": "Information architecture",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "9C904BC4-B92C-54C6-8A0F-E3E7BCA90AAA",
+                    "name": "Document preservation and restoration services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "1BA501E1-B22D-47E0-AE20-E64E6DDDC5FF",
+                    "name": "Artificial Intelligence",
+                    "type": "Services",
+                    "isPrimary": 0
+                }
+            ],
+            "solicitationDate": {
+                "value": "2025-02-06T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1742856",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Post-RFP",
+            "title": "PRODUCT SUPPORT SERVICE DESK (PSSD)",
+            "type": "toon",
+            "updateDate": "2025-03-25T09:13:55.703"
+        },
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2190026"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190026/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190026/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190026/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190026/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/26707"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2190026/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-03-25T09:03:10.163",
+            "description": "Service Delivery requirement provides a full range of IT products, services, solutions, and user support to the Office of the Secretary of Defense (OSD) to meet mission and business requirements. Service Delivery requirement also provides advice and assistance to senior managers to ensure IT and information resources are managed in a manner that implements Department of Defense (DOD) policies, procedures established priorities.  IT Services and Support to include the following: 1. Very Important Person Support 2. Tier I Call Center Support 3. Tier II Deskside and Remote Support 4. End User Training 5. Strategic Messaging to the J6 Supported Users 6. Boards, Commissions, and Task Force/Operations Service Request Support 7. Wireless Services Support 8. Telecommunications Services Support 9. Customer Relations Management Support 10. Macintosh Support 11. Assistive Technology Support for Users with Disabilities  The Government will use evaluation factors to determine a contractor's relative ability to accomplish the tasks set forth in the PWS. See attachment, RFQ 832268923 Service Delivery, Paragraph 3, Evaluation Factors and Basis for Award Determination.  Questions shall be submitted to john.m.ross138.civ@mail.mil. Please provide any questions, in writing using Attachment 9 RFQ Questions and Answers, no later than Monday, April 7, 2025, at 2:00pm CT. The Government reserves the right to not answer questions submitted after this time. ",
+            "duration": "",
+            "govEntity": {
+                "id": 26707,
+                "title": "DEFENSE INFORMATION SYSTEMS AGENCY"
+            },
+            "id": "TNS2190026",
+            "iqOppId": 2190026,
+            "procurement": "New Task Order created.",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-04-24T15:00:00.000"
+            },
+            "smartTag": "",
+            "smartTagObject": [],
+            "solicitationDate": {
+                "value": "2025-03-25T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1749537",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Post-RFP",
+            "title": "SERVICE DELIVERY",
+            "type": "toon",
+            "updateDate": "2025-03-25T09:03:10.163"
+        },
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2187884"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2187884/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2187884/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2187884/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2187884/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/129151"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2187884/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-03-20T15:17:58.580",
+            "description": "Radio Helpdesk & DAS Support The United States Capitol Police (USCP) has a requirement for Helpdesk Support Services for the Office of Information Systems (OIS). You are hereby requested to submit a price quote for customer support / service desk coverage between 6am and 6pm during normal days of operation. The hours of coverage for the radio technician providing distributed antenna system (DAS) support and maintenance services shall be an eight (8) hour period between the hours of 6am and 6pm, with an unpaid lunch break. There is no possibility of teleworking for the customer support / service desk positions or the DAS radio technician.  The United States Capitol Police (USCP) intends to procure services under a Firm Fixed-Price type arrangement placed against the applicable GSA Schedule Contract. The USCP anticipates award of one Task Order for the Helpdesk Support Services for the Office of Information Systems with a base period and four one year options periods from June 6, 2025, through June 5, 2030.",
+            "duration": "",
+            "govEntity": {
+                "id": 129151,
+                "title": "US CAPITOL POLICE"
+            },
+            "id": "TNS2187884",
+            "iqOppId": 2187884,
+            "procurement": "Update from Government site: 1. 03/25/2025 - To correct the closing date to read 4/21/2025 2. 03/25/2025 - To replace the original cover letter.",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-04-21T10:00:00.000"
+            },
+            "smartTag": "",
+            "smartTagObject": [],
+            "solicitationDate": {
+                "value": "2025-03-20T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1749042",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Post-RFP",
+            "title": "HELPDESK SUPPORT SERVICES",
+            "type": "toon",
+            "updateDate": "2025-03-25T07:39:37.213"
+        },
+        {
+            "links": {
+                "webHref": {
+                    "href": "https://iq.govwin.com/neo/toons/view/2149230"
+                },
+                "markedByUsers": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2149230/markedByUsers"
+                },
+                "relatedDocuments": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2149230/relatedDocuments"
+                },
+                "contacts": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2149230/contacts"
+                },
+                "placesOfPerformance": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2149230/placesOfPerformance"
+                },
+                "govEntity": {
+                    "href": "https://services.govwin.com/neo-ws/govEntities/25778"
+                },
+                "contractVehicles": {
+                    "href": "https://services.govwin.com/neo-ws/opportunities/TNS2149230/contractVehicles"
+                }
+            },
+            "country": "USA",
+            "createdDate": "2025-01-16T18:52:46.473",
+            "description": "Under the anticipated Blanket Purchase Agreement (BPA), which will contain the provision to issue FFP, T&M/LH or Hybrid Orders, the successful BPA quoters must provide Web Agility Program Support Services (WA3), as described in Section 3 - Statement of Work (SOW).  As a result of this RFQ, the FHWA anticipates awarding approximately four small business BPA awards but may increase or decrease this amount based on quotes deemed the best value to the Government.  Quotations will be submitted in two phases for this Solicitation. The Phase I quotation submission will consist of a single Technical Quotation volume. The Phase II quotation submission will include a Technical Quotation, and a Business Quotation. The Business Quotation will contain labor categories and labor rates for the resultant BPA awards. The SOW for the BPA is in Section 3 of this RFQ. All other quotation requirements are outlined in Section 36, Contents of Quotations.<br>*SB*",
+            "duration": "",
+            "govEntity": {
+                "id": 25778,
+                "title": "TRANSPORTATION"
+            },
+            "id": "TNS2149230",
+            "iqOppId": 2149230,
+            "procurement": "Update from Government site: 1. 01/27/2025 - The RFQ was amended to change the due date for the submission of Phase I Quotations to February 18, 2025. 2. 02/12/2025 - The RFQ was amended to change the due date for the submission of Phase I Quotations to March 4, 2025. We are extending to allow additional time for the Government's review and response to the Q&As. 3. 03/03/2025 - The purpose of Amendment 3 is to allow additional time for the Government to respond to the questions received by interested contractors and to update the Contract Specialist listed on the RFQ. 4. 03/24/2025 - The purpose of this Amendment 4 is to update the RFQ document and post the Questions and Answers (Q&As).",
+            "responseDate": {
+                "timeZone": "EDT",
+                "value": "2025-04-08T12:00:00.000"
+            },
+            "smartTag": "Products & Services > Primary Tags:Program management services, Secondary Tags:Administrative training services , Business process improvement services , Employment screening services , Operational planning services , Performance evaluation services , Project management services , Quality control services , Strategic planning services , Temporary staffing services , ",
+            "smartTagObject": [
+                {
+                    "id": "FF72CAD4-49CB-55CF-A2A4-02044294ABC2",
+                    "name": "Operational planning services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "2DFEDB3E-19D6-55B9-B581-214A89BE697A",
+                    "name": "Administrative training services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "0587EBC0-10CE-59DD-A2B0-3477695E75CF",
+                    "name": "Temporary staffing services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "36AB4B28-BF18-545B-AF4D-381A69100129",
+                    "name": "Business process improvement services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "602C8A3B-0084-5846-B3F8-68083C6D2EFA",
+                    "name": "Strategic planning services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "FF4A61F0-FA3E-5374-B797-729F71308D5B",
+                    "name": "Quality control services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "AA95E200-8B5C-5328-9831-83324F31CFAE",
+                    "name": "Program management services",
+                    "type": "Services",
+                    "isPrimary": 1
+                },
+                {
+                    "id": "CFD20F71-5735-555E-96C4-8961E92414DE",
+                    "name": "Employment screening services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "9FF8E78E-29B6-4D49-AD12-94B63BB0B878",
+                    "name": "Performance evaluation services",
+                    "type": "Services",
+                    "isPrimary": 0
+                },
+                {
+                    "id": "D17A87EF-E6B5-574D-91E2-B690A92E4E6A",
+                    "name": "Project management services",
+                    "type": "Services",
+                    "isPrimary": 0
+                }
+            ],
+            "solicitationDate": {
+                "value": "2025-01-16T00:00:00.000"
+            },
+            "solicitationNumber": "RFQ1740015",
+            "sourceURL": "https://www.ebuy.gsa.gov/advgsa/advantage/ebuy/start_page.do",
+            "status": "Post-RFP",
+            "title": "WEB AGILITY PROGRAM SUPPORT SERVICES FOR THE U.S. DEPARTMENT OF TRANSPORTATION",
+            "type": "toon",
+            "updateDate": "2025-03-24T20:30:31.733"
+        }
+    ]
+}
